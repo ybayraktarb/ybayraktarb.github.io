@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 135" role="img" aria-label="AWS Certified Solutions Architect Associate badge">
+  <defs>
+    <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#4f46e5"/>
+      <stop offset="100%" stop-color="#2563eb"/>
+    </linearGradient>
+  </defs>
+  <path d="M60 2.5 7 32.5v60L60 132.5 113 92.5v-60z" fill="url(#grad)" stroke="#3b82f6" stroke-width="4" />
+  <text x="50%" y="38%" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" font-weight="700" fill="#fff">aws</text>
+  <text x="50%" y="52%" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" letter-spacing="1" fill="#c7d2fe">certified</text>
+  <text x="50%" y="69%" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="12" font-weight="700" fill="#fff">Solutions</text>
+  <text x="50%" y="81%" text-anchor="middle" font-family="Arial Black, Arial, sans-serif" font-size="12" font-weight="700" fill="#fff">Architect</text>
+  <text x="50%" y="94%" text-anchor="middle" font-family="Arial, sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#c7d2fe">ASSOCIATE</text>
+</svg>

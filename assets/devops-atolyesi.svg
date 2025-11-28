@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#8a4fff"/>
+      <stop offset="100%" stop-color="#a05bff"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <text x="70" y="150" fill="#ffffff" font-size="56" font-family="Inter, sans-serif" font-weight="700">DevOps Workshop (CI/CD + GitOps)</text>
+  <text x="70" y="210" fill="#eae6ff" font-size="32" font-family="Inter, sans-serif" font-weight="500">Workshop · May 21 – Jun 11</text>
+  <text x="70" y="280" fill="#ffffff" font-size="30" font-family="Inter, sans-serif" font-weight="500">CI/CD and GitOps with GitHub Actions, Jenkins, ArgoCD across</text>
+  <text x="70" y="330" fill="#ffffff" font-size="30" font-family="Inter, sans-serif" font-weight="500">Python, Node.js, Django, and Java workloads on AWS &amp; GCP.</text>
+</svg>

@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 700" role="img">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#f72585"/>
+      <stop offset="100%" stop-color="#e9448e"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="700" fill="url(#bg)"/>
+  <text x="70" y="150" fill="#ffffff" font-size="56" font-family="Inter, sans-serif" font-weight="700">System &amp; Network Lab</text>
+  <text x="70" y="210" fill="#ffe9f4" font-size="32" font-family="Inter, sans-serif" font-weight="500">Workshop · Sep 30 – Oct 21</text>
+  <text x="70" y="280" fill="#ffffff" font-size="30" font-family="Inter, sans-serif" font-weight="500">AWS VPC fundamentals, multi-VPC peering / TGW, VPN access,</text>
+  <text x="70" y="330" fill="#ffffff" font-size="30" font-family="Inter, sans-serif" font-weight="500">secure file sharing, HA and autoscaling patterns.</text>
+</svg>
